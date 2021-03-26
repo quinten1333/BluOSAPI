@@ -1,0 +1,7 @@
+Als hij niet aan het spelen is staat hij nog wel in polybar?
+
+Allow polybar to tail to allow instant updates when changing the volume.
+Maby above is for when I make a proper state server, as the functionality can be reused for other state systems then.
+Detect if on local network then as well. (Known if a socket can be made to the state server??)
+
+Keep local state so that status requests are instant (changing my laptop volume is async now :( ).
